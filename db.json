@@ -52,13 +52,7 @@
           "result2": " "
         },
     ], 
-    "original": {
-      "acquiring_institution": "00000381167", 
-      "forwarding_institution": "00000270056", 
-      "message_type_identifier": "0200", 
-      "system_trace_audit_number": "107701", 
-      "transmission_date_and_time": "1230184559"
-    }, 
+   
     "participant_id": "TERMINAL34728", 
     "payment_facilitator_id": "00000123456", 
     "payment_type": "C67", 
