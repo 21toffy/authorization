@@ -65,5 +65,30 @@
     "transaction_purpose": "08", 
     "transaction_replacement_amount": "1000", 
     "transmission_date_and_time": "1231121515", 
-    "unique_transaction_reference_number": "0555555901215305401"
+    "unique_transaction_reference_number": "0555555901215305401",
+    
+    
+    
+     "obs_result": [
+        {
+          "service": "37",
+          "result1": "V",
+          "result2": " "
+        },
+         {
+          "service": "38",
+          "result1": "V",
+          "result2": " "
+        },
+         {
+          "service": "39",
+          "result1": "V",
+          "result2": " "
+        },
+         {
+          "service": "40",
+          "result1": "V",
+          "result2": " "
+        },
+    ], 
   }
