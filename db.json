@@ -30,6 +30,28 @@
     "mastercard_assigned_id": "111111", 
     "merchant_category_code": "5943", 
     "message_type": "AUTH", 
+    "obs_result": [
+        {
+          "service": "37",
+          "result1": "V",
+          "result2": " "
+        },
+         {
+          "service": "38",
+          "result1": "V",
+          "result2": " "
+        },
+         {
+          "service": "39",
+          "result1": "V",
+          "result2": " "
+        },
+         {
+          "service": "40",
+          "result1": "V",
+          "result2": " "
+        },
+    ], 
     
     "original": {
       "acquiring_institution": "00000381167", 
